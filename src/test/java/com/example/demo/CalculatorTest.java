@@ -22,5 +22,5 @@ public class CalculatorTest {
 		int expectResult = num1 * num2;
 		assertNotEquals(15, expectResult);
 	}
-abc
+
 }
