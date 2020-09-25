@@ -20,7 +20,7 @@ public class CalculatorTest {
 		int num1 = 3;
 		int num2 = 4;
 		int expectResult = num1 * num2;
-		assertNotEquals(15, expectResult);
+		assertNotEquals(12, expectResult);
 	}
 
 }
